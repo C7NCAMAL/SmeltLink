@@ -1,0 +1,6 @@
+{
+  "configuration.smeltlink.max_connected_furnaces": "Max Connected Furnaces",
+  "configuration.smeltlink.max_connected_furnaces.tooltip": "Maximum number of furnaces that can form a connected cluster (2-256).",
+  "configuration.smeltlink.strict_input_matching": "Strict Input Matching",
+  "configuration.smeltlink.strict_input_matching.tooltip": "When enabled, only items with a valid smelting recipe for the cluster's furnace type will be accepted."
+}
